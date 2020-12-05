@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Els meus primers Intents</string>
+    <string name="activity1Nombre">Principal</string>
+    <string name="profile">Profile</string>
+    <string name="myRates">My Rates</string>
+    <string name="addFilm">Add Film</string>
+    <string name="send">Enviar</string>
+    <string name="filmName">Nombre de la Peli</string>
+    <string name="peliEscollida">AVATAR</string>
+    <string name="explicit_Intent_Web">IR A ROTTENTOMATOES.COM</string>
+    <string name="userName">UserName</string>
+    <string name="email">Email</string>
+    <string name="nom">Nom</string>
+    <string name="cognom">Cognom</string>
+    <string name="biografia">Biografia</string>
+    <string name="confirmar">Guardar INFO</string>
+    <string name="spinner2">Gènere</string>
+    <string name="titol">Títol</string>
+    <string name="any">Any</string>
+    <string name="director">Director</string>
+</resources>
